@@ -1,7 +1,7 @@
 [
    {
       "id":"pt-br",
-      "name":"Português (Brasil)",
+      "name":"Português",
       "captions":[
          {
             "id":"BiometryPage.LabelEnabled",
@@ -141,7 +141,7 @@
 },
    {
   "id": "en-us",
-  "name": "English (US)",
+  "name": "English",
   "captions": [
     {
       "id": "BiometryPage.LabelEnabled",
