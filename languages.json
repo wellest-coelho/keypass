@@ -1,5 +1,4 @@
-{
-  "languages": [
+[
     {
       "id": "pt-br",
       "name": "Português (Brasil)",
@@ -31,4 +30,3 @@
       ]
     }
   ]
-}
