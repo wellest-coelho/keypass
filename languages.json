@@ -1,60 +1,118 @@
 [
-    {
-      "id": "pt-br",
-      "name": "Português (Brasil)",
-      "captions": [
-        {
-          "id": "BiometryPage.LabelEnabled",
-          "caption": "Login por biometria ativado"
-        },
-        {
-          "id": "BiometryPage.LabelDisabled",
-          "caption": "Login por biometria desativado"
-        },
-        {
-          "id": "ConfigPage.Label",
-          "caption": "Quantidade de itens na Listagem"
-        },
-        {
-          "id": "ConfigPage.LabelSerial",
-          "caption": "Serial Number"
-        },
-        {
-          "id": "ConfigPage.LabelGerador",
-          "caption": "Gerar serial number"
-        },
-        {
-          "id": "ConfigPage.ListagemAtualizada",
-          "caption": "Listagem atualizada com sucesso"
-        },
-        {
-          "id": "ConfigPage.ValorInvalido",
-          "caption": "Informe um valor válido"
-        },
-        {
-          "id": "ConfigPage.SerialInvalido",
-          "caption": "Informe um serial válido"
-        },
-        {
-          "id": "LoginPage.LabelBemVindo",
-          "caption": "Bem-vindo"
-        },
-        {
-          "id": "LoginPage.LabelCrieConta",
-          "caption": "Faça login / crie sua conta"
-        },
-        {
-          "id": "LoginPage.txtUser",
-          "caption": "Email"
-        },
-        {
-          "id": "LoginPage.txtPwd",
-          "caption": "Senha"
-        },
-        {
-          "id": "LoginPage.txtPwdConfirm",
-          "caption": "Confirme a senha"
-        }
+   {
+      "id":"pt-br",
+      "name":"Português (Brasil)",
+      "captions":[
+         {
+            "id":"BiometryPage.LabelEnabled",
+            "caption":"Login por biometria ativado"
+         },
+         {
+            "id":"BiometryPage.LabelDisabled",
+            "caption":"Login por biometria desativado"
+         },
+         {
+            "id":"ConfigPage.Label",
+            "caption":"Quantidade de itens na Listagem"
+         },
+         {
+            "id":"ConfigPage.LabelSerial",
+            "caption":"Serial Number"
+         },
+         {
+            "id":"ConfigPage.LabelGerador",
+            "caption":"Gerar serial number"
+         },
+         {
+            "id":"ConfigPage.ListagemAtualizada",
+            "caption":"Listagem atualizada com sucesso"
+         },
+         {
+            "id":"ConfigPage.ValorInvalido",
+            "caption":"Informe um valor válido"
+         },
+         {
+            "id":"ConfigPage.SerialInvalido",
+            "caption":"Informe um serial válido"
+         },
+         {
+            "id":"LoginPage.LabelBemVindo",
+            "caption":"Bem-vindo"
+         },
+         {
+            "id":"LoginPage.LabelCrieConta",
+            "caption":"Faça login / crie sua conta"
+         },
+         {
+            "id":"LoginPage.txtUser",
+            "caption":"Email"
+         },
+         {
+            "id":"LoginPage.txtPwd",
+            "caption":"Senha"
+         },
+         {
+            "id":"LoginPage.txtPwdConfirm",
+            "caption":"Confirme a senha"
+         }
       ]
-    }
-  ]
+   },
+   {
+      "id":"es-es",
+      "name":"Español",
+      "captions":[
+         {
+            "id":"BiometryPage.LabelEnabled",
+            "caption":"Inicio de sesión biométrico activado"
+         },
+         {
+            "id":"BiometryPage.LabelDisabled",
+            "caption":"Inicio de sesión biométrico desactivado"
+         },
+         {
+            "id":"ConfigPage.Label",
+            "caption":"Cantidad de elementos en la lista"
+         },
+         {
+            "id":"ConfigPage.LabelSerial",
+            "caption":"Número de serie"
+         },
+         {
+            "id":"ConfigPage.LabelGerador",
+            "caption":"Generar número de serie"
+         },
+         {
+            "id":"ConfigPage.ListagemAtualizada",
+            "caption":"Listado actualizado con éxito"
+         },
+         {
+            "id":"ConfigPage.ValorInvalido",
+            "caption":"Ingrese un valor válido"
+         },
+         {
+            "id":"ConfigPage.SerialInvalido",
+            "caption":"Ingrese un número de serie válido"
+         },
+         {
+            "id":"LoginPage.LabelBemVindo",
+            "caption":"Bienvenido"
+         },
+         {
+            "id":"LoginPage.LabelCrieConta",
+            "caption":"Inicie sesión / cree su cuenta"
+         },
+         {
+            "id":"LoginPage.txtUser",
+            "caption":"Correo electrónico"
+         },
+         {
+            "id":"LoginPage.txtPwd",
+            "caption":"Contraseña"
+         },
+         {
+            "id":"LoginPage.txtPwdConfirm",
+            "caption":"Confirme la contraseña"
+         }
+      ]
+   }
+]
