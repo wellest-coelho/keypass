@@ -1,246 +1,248 @@
-{
-  "id": "pt-br",
-  "name": "Português",
-  "captions": [
-    {
-      "id": "yes",
-      "caption": "Sim"
-    },
-    {
-      "id": "no",
-      "caption": "Não"
-    },
-    {
-      "id": "item",
-      "caption": "Item"
-    },
-    {
-      "id": "lblApp",
-      "caption": "App/Site"
-    },
-    {
-      "id": "lblUser",
-      "caption": "Usuário"
-    },
-    {
-      "id": "lblPwd",
-      "caption": "Senha"
-    },
-    {
-      "id": "lblNota",
-      "caption": "Nota"
-    },
-    {
-      "id": "erroCarregarArquivo",
-      "caption": "Erro ao carregar arquivo"
-    },
-    {
-      "id": "erroSalvarArquivo",
-      "caption": "Erro ao salvar arquivo"
-    },
-    {
-      "id": "emailSubject",
-      "caption": "{{ Arquivo de Backup - KeyPass }}"
-    },
-    {
-      "id": "emailBody",
-      "caption": "Olá,{NEWLINE}Em anexo está o seu arquivo com suas senhas criptografadas.{NEWLINE}Obs: aconselhamos que nunca compartilhe senhas com quem quer que seja.{NEWLINE}{NEWLINE}KeyPass"
-    },
-    {
-      "id": "BiometryPage.LabelEnabled",
-      "caption": "Login por biometria ativado"
-    },
-    {
-      "id": "BiometryPage.LabelDisabled",
-      "caption": "Login por biometria desativado"
-    },
-    {
-      "id": "ConfigPage.Label",
-      "caption": "Quantidade de itens na Listagem"
-    },
-    {
-      "id": "ConfigPage.LabelSerial",
-      "caption": "Serial Number"
-    },
-    {
-      "id": "ConfigPage.LabelGerador",
-      "caption": "Gerar serial number"
-    },
-    {
-      "id": "ConfigPage.ListagemAtualizada",
-      "caption": "Listagem atualizada com sucesso"
-    },
-    {
-      "id": "ConfigPage.ValorInvalido",
-      "caption": "Informe um valor válido"
-    },
-    {
-      "id": "ConfigPage.SerialInvalido",
-      "caption": "Informe um serial válido"
-    },
-    {
-      "id": "LoginPage.LabelBemVindo",
-      "caption": "Bem-vindo"
-    },
-    {
-      "id": "LoginPage.LabelCrieConta",
-      "caption": "Faça login / crie sua conta"
-    },
-    {
-      "id": "LoginPage.txtUser",
-      "caption": "Email"
-    },
-    {
-      "id": "LoginPage.txtPwd",
-      "caption": "Senha"
-    },
-    {
-      "id": "LoginPage.txtPwdConfirm",
-      "caption": "Confirme a senha"
-    },
-    {
-      "id": "LoginPage.labelRecuperarBackup",
-      "caption": "Recuperar arquivo de backup"
-    },
-    {
-      "id": "LoginPage.btnCancelar",
-      "caption": "Cancelar"
-    },
-    {
-      "id": "LoginPage.pickerFileTitle",
-      "caption": "Selecione um arquivo de backup"
-    },
-    {
-      "id": "LoginPage.displayAlertFileExistsTitle",
-      "caption": "Arquivo existente"
-    },
-    {
-      "id": "LoginPage.displayAlertFileExistsText",
-      "caption": "Gostaria de sobrescrever o arquivo existente?"
-    },
-    {
-      "id": "LoginPage.backupRecuperado",
-      "caption": "Backup recuperado com sucesso"
-    },
-    {
-      "id": "LoginPage.invalidUser",
-      "caption": "Informe um usuário válido"
-    },
-    {
-      "id": "LoginPage.invalidPassword",
-      "caption": "A senha informada é inválida"
-    },
-    {
-      "id": "LoginPage.invalidPasswordLength",
-      "caption": "A senha informada deve ter pelo menos 8 caracteres"
-    },
-    {
-      "id": "LoginPage.invalidPasswordValidation",
-      "caption": "As senhas informadas não coincidem"
-    },
-    {
-      "id": "LoginPage.captionLogin",
-      "caption": "Login"
-    },
-    {
-      "id": "LoginPage.captionLoginCreate",
-      "caption": "Criar login"
-    },
-    {
-      "id": "LoginPage.captionFingerprint",
-      "caption": "Impressão digital"
-    },
-    {
-      "id": "LoginPage.captionErrorOnLoadDataAccess",
-      "caption": "Não foi possível carregar dados de acesso"
-    },
-    {
-      "id": "MainPage.mnAdd",
-      "caption": "Novo item"
-    },
-    {
-      "id": "MainPage.mnConfig",
-      "caption": "Configurações"
-    },
-    {
-      "id": "MainPage.mnBkp",
-      "caption": "Backup por email"
-    },
-    {
-      "id": "MainPage.mnPwd",
-      "caption": "Alterar password"
-    },
-    {
-      "id": "MainPage.mnOut",
-      "caption": "Sair"
-    },
-    {
-      "id": "MainPage.invalidSerialNumber",
-      "caption": "Vá em Configurações e informe um serial number válido"
-    },
-    {
-      "id": "MainPage.captionLabelTitle1",
-      "caption": "(Listando {0}/{1} itens)"
-    },
-    {
-      "id": "MainPage.captionLabelTitle2",
-      "caption": "(Listando todos os {0} itens)"
-    },
-    {
-      "id": "MainPage.captionCopia",
-      "caption": "Copiado: "
-    },
-    {
-      "id": "PasswordPage.lblSenhaAtual",
-      "caption": "Senha atual"
-    },
-    {
-      "id": "PasswordPage.txtSenhaAtual",
-      "caption": "Digite a senha atual"
-    },
-    {
-      "id": "PasswordPage.lblSenhaNova",
-      "caption": "Nova senha"
-    },
-    {
-      "id": "PasswordPage.txtSenhaNova",
-      "caption": "Nova senha (mínimo 8 caracteres)"
-    },
-    {
-      "id": "PasswordPage.lblConfirmacao",
-      "caption": "Confirmação"
-    },
-    {
-      "id": "PasswordPage.txtConfirmacao",
-      "caption": "Confirme a nova senha"
-    },
-    {
-      "id": "PasswordPage.captionSenhaAlterada",
-      "caption": "Senha alterada com sucesso"
-    },
-    {
-      "id": "PasswordPage.captionSenhaIncorreta",
-      "caption": "A senha atual digitada está incorreta"
-    },
-    {
-      "id": "PasswordPage.captionSenhaInvalida",
-      "caption": "A nova senha é inválida"
-    },
-    {
-      "id": "PasswordPage.captionSenhaDifere",
-      "caption": "A nova senha não coincide com a confirmação"
-    },
-    {
-      "id": "PasswordPage.captionSenhaDifere",
-      "caption": "A nova senha não coincide com a confirmação"
-    },
-    {
-      "id": "NewKeyPage.labelConfirmaDelete1",
-      "caption": "Confirma que deseja excluir?"
-    },
-    {
-      "id": "NewKeyPage.labelConfirmaDelete2",
-      "caption": "Essa ação não tem volta"
-    }
-  ]
-}
+[
+  {
+    "id": "pt-br",
+    "name": "Português",
+    "captions": [
+      {
+        "id": "yes",
+        "caption": "Sim"
+      },
+      {
+        "id": "no",
+        "caption": "Não"
+      },
+      {
+        "id": "item",
+        "caption": "Item"
+      },
+      {
+        "id": "lblApp",
+        "caption": "App/Site"
+      },
+      {
+        "id": "lblUser",
+        "caption": "Usuário"
+      },
+      {
+        "id": "lblPwd",
+        "caption": "Senha"
+      },
+      {
+        "id": "lblNota",
+        "caption": "Nota"
+      },
+      {
+        "id": "erroCarregarArquivo",
+        "caption": "Erro ao carregar arquivo"
+      },
+      {
+        "id": "erroSalvarArquivo",
+        "caption": "Erro ao salvar arquivo"
+      },
+      {
+        "id": "emailSubject",
+        "caption": "{{ Arquivo de Backup - KeyPass }}"
+      },
+      {
+        "id": "emailBody",
+        "caption": "Olá,{NEWLINE}Em anexo está o seu arquivo com suas senhas criptografadas.{NEWLINE}Obs: aconselhamos que nunca compartilhe senhas com quem quer que seja.{NEWLINE}{NEWLINE}KeyPass"
+      },
+      {
+        "id": "BiometryPage.LabelEnabled",
+        "caption": "Login por biometria ativado"
+      },
+      {
+        "id": "BiometryPage.LabelDisabled",
+        "caption": "Login por biometria desativado"
+      },
+      {
+        "id": "ConfigPage.Label",
+        "caption": "Quantidade de itens na Listagem"
+      },
+      {
+        "id": "ConfigPage.LabelSerial",
+        "caption": "Serial Number"
+      },
+      {
+        "id": "ConfigPage.LabelGerador",
+        "caption": "Gerar serial number"
+      },
+      {
+        "id": "ConfigPage.ListagemAtualizada",
+        "caption": "Listagem atualizada com sucesso"
+      },
+      {
+        "id": "ConfigPage.ValorInvalido",
+        "caption": "Informe um valor válido"
+      },
+      {
+        "id": "ConfigPage.SerialInvalido",
+        "caption": "Informe um serial válido"
+      },
+      {
+        "id": "LoginPage.LabelBemVindo",
+        "caption": "Bem-vindo"
+      },
+      {
+        "id": "LoginPage.LabelCrieConta",
+        "caption": "Faça login / crie sua conta"
+      },
+      {
+        "id": "LoginPage.txtUser",
+        "caption": "Email"
+      },
+      {
+        "id": "LoginPage.txtPwd",
+        "caption": "Senha"
+      },
+      {
+        "id": "LoginPage.txtPwdConfirm",
+        "caption": "Confirme a senha"
+      },
+      {
+        "id": "LoginPage.labelRecuperarBackup",
+        "caption": "Recuperar arquivo de backup"
+      },
+      {
+        "id": "LoginPage.btnCancelar",
+        "caption": "Cancelar"
+      },
+      {
+        "id": "LoginPage.pickerFileTitle",
+        "caption": "Selecione um arquivo de backup"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsTitle",
+        "caption": "Arquivo existente"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsText",
+        "caption": "Gostaria de sobrescrever o arquivo existente?"
+      },
+      {
+        "id": "LoginPage.backupRecuperado",
+        "caption": "Backup recuperado com sucesso"
+      },
+      {
+        "id": "LoginPage.invalidUser",
+        "caption": "Informe um usuário válido"
+      },
+      {
+        "id": "LoginPage.invalidPassword",
+        "caption": "A senha informada é inválida"
+      },
+      {
+        "id": "LoginPage.invalidPasswordLength",
+        "caption": "A senha informada deve ter pelo menos 8 caracteres"
+      },
+      {
+        "id": "LoginPage.invalidPasswordValidation",
+        "caption": "As senhas informadas não coincidem"
+      },
+      {
+        "id": "LoginPage.captionLogin",
+        "caption": "Login"
+      },
+      {
+        "id": "LoginPage.captionLoginCreate",
+        "caption": "Criar login"
+      },
+      {
+        "id": "LoginPage.captionFingerprint",
+        "caption": "Impressão digital"
+      },
+      {
+        "id": "LoginPage.captionErrorOnLoadDataAccess",
+        "caption": "Não foi possível carregar dados de acesso"
+      },
+      {
+        "id": "MainPage.mnAdd",
+        "caption": "Novo item"
+      },
+      {
+        "id": "MainPage.mnConfig",
+        "caption": "Configurações"
+      },
+      {
+        "id": "MainPage.mnBkp",
+        "caption": "Backup por email"
+      },
+      {
+        "id": "MainPage.mnPwd",
+        "caption": "Alterar password"
+      },
+      {
+        "id": "MainPage.mnOut",
+        "caption": "Sair"
+      },
+      {
+        "id": "MainPage.invalidSerialNumber",
+        "caption": "Vá em Configurações e informe um serial number válido"
+      },
+      {
+        "id": "MainPage.captionLabelTitle1",
+        "caption": "(Listando {0}/{1} itens)"
+      },
+      {
+        "id": "MainPage.captionLabelTitle2",
+        "caption": "(Listando todos os {0} itens)"
+      },
+      {
+        "id": "MainPage.captionCopia",
+        "caption": "Copiado: "
+      },
+      {
+        "id": "PasswordPage.lblSenhaAtual",
+        "caption": "Senha atual"
+      },
+      {
+        "id": "PasswordPage.txtSenhaAtual",
+        "caption": "Digite a senha atual"
+      },
+      {
+        "id": "PasswordPage.lblSenhaNova",
+        "caption": "Nova senha"
+      },
+      {
+        "id": "PasswordPage.txtSenhaNova",
+        "caption": "Nova senha (mínimo 8 caracteres)"
+      },
+      {
+        "id": "PasswordPage.lblConfirmacao",
+        "caption": "Confirmação"
+      },
+      {
+        "id": "PasswordPage.txtConfirmacao",
+        "caption": "Confirme a nova senha"
+      },
+      {
+        "id": "PasswordPage.captionSenhaAlterada",
+        "caption": "Senha alterada com sucesso"
+      },
+      {
+        "id": "PasswordPage.captionSenhaIncorreta",
+        "caption": "A senha atual digitada está incorreta"
+      },
+      {
+        "id": "PasswordPage.captionSenhaInvalida",
+        "caption": "A nova senha é inválida"
+      },
+      {
+        "id": "PasswordPage.captionSenhaDifere",
+        "caption": "A nova senha não coincide com a confirmação"
+      },
+      {
+        "id": "PasswordPage.captionSenhaDifere",
+        "caption": "A nova senha não coincide com a confirmação"
+      },
+      {
+        "id": "NewKeyPage.labelConfirmaDelete1",
+        "caption": "Confirma que deseja excluir?"
+      },
+      {
+        "id": "NewKeyPage.labelConfirmaDelete2",
+        "caption": "Essa ação não tem volta"
+      }
+    ]
+  }
+]
