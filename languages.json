@@ -4,6 +4,14 @@
       "name": "Português (Brasil)",
       "captions": [
         {
+          "id": "BiometryPage.LabelEnabled",
+          "caption": "Login por biometria ativado"
+        },
+        {
+          "id": "BiometryPage.LabelDisabled",
+          "caption": "Login por biometria desativado"
+        },
+        {
           "id": "ConfigPage.Label",
           "caption": "Quantidade de itens na Listagem"
         },
