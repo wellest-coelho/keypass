@@ -1,212 +1,128 @@
 [
-   {
-      "id":"pt-br",
-      "name":"Português",
-      "captions":[
-         {
-            "id":"BiometryPage.LabelEnabled",
-            "caption":"Login por biometria ativado"
-         },
-         {
-            "id":"BiometryPage.LabelDisabled",
-            "caption":"Login por biometria desativado"
-         },
-         {
-            "id":"ConfigPage.Label",
-            "caption":"Quantidade de itens na Listagem"
-         },
-         {
-            "id":"ConfigPage.LabelSerial",
-            "caption":"Serial Number"
-         },
-         {
-            "id":"ConfigPage.LabelGerador",
-            "caption":"Gerar serial number"
-         },
-         {
-            "id":"ConfigPage.ListagemAtualizada",
-            "caption":"Listagem atualizada com sucesso"
-         },
-         {
-            "id":"ConfigPage.ValorInvalido",
-            "caption":"Informe um valor válido"
-         },
-         {
-            "id":"ConfigPage.SerialInvalido",
-            "caption":"Informe um serial válido"
-         },
-         {
-            "id":"LoginPage.LabelBemVindo",
-            "caption":"Bem-vindo"
-         },
-         {
-            "id":"LoginPage.LabelCrieConta",
-            "caption":"Faça login / crie sua conta"
-         },
-         {
-            "id":"LoginPage.txtUser",
-            "caption":"Email"
-         },
-         {
-            "id":"LoginPage.txtPwd",
-            "caption":"Senha"
-         },
-         {
-            "id":"LoginPage.txtPwdConfirm",
-            "caption":"Confirme a senha"
-         },
-         {
-            "id":"LoginPage.labelRecuperarBackup",
-            "caption":"Recuperar arquivo de backup"
-         },
-         {
-            "id":"LoginPage.btnLogin",
-            "caption":"Login"
-         },
-         {
-            "id":"LoginPage.btnCancelar",
-            "caption":"Cancelar"
-         }
-      ]
-   },
-   {
-  "id": "es-es",
-  "name": "Español",
-  "captions": [
-    {
-      "id": "BiometryPage.LabelEnabled",
-      "caption": "Inicio de sesión biométrico activado"
-    },
-    {
-      "id": "BiometryPage.LabelDisabled",
-      "caption": "Inicio de sesión biométrico desactivado"
-    },
-    {
-      "id": "ConfigPage.Label",
-      "caption": "Cantidad de elementos en la lista"
-    },
-    {
-      "id": "ConfigPage.LabelSerial",
-      "caption": "Número de serie"
-    },
-    {
-      "id": "ConfigPage.LabelGerador",
-      "caption": "Generar número de serie"
-    },
-    {
-      "id": "ConfigPage.ListagemAtualizada",
-      "caption": "Listado actualizado con éxito"
-    },
-    {
-      "id": "ConfigPage.ValorInvalido",
-      "caption": "Ingrese un valor válido"
-    },
-    {
-      "id": "ConfigPage.SerialInvalido",
-      "caption": "Ingrese un número de serie válido"
-    },
-    {
-      "id": "LoginPage.LabelBemVindo",
-      "caption": "Bienvenido"
-    },
-    {
-      "id": "LoginPage.LabelCrieConta",
-      "caption": "Inicia sesión / crea tu cuenta"
-    },
-    {
-      "id": "LoginPage.txtUser",
-      "caption": "Correo electrónico"
-    },
-    {
-      "id": "LoginPage.txtPwd",
-      "caption": "Contraseña"
-    },
-    {
-      "id": "LoginPage.txtPwdConfirm",
-      "caption": "Confirma la contraseña"
-    },
-    {
-      "id": "LoginPage.labelRecuperarBackup",
-      "caption": "Recuperar archivo de copia de seguridad"
-    },
-    {
-      "id": "LoginPage.btnLogin",
-      "caption": "Iniciar sesión"
-    },
-    {
-      "id": "LoginPage.btnCancelar",
-      "caption": "Cancelar"
-    }
-  ]
-},
-   {
-  "id": "en-us",
-  "name": "English",
-  "captions": [
-    {
-      "id": "BiometryPage.LabelEnabled",
-      "caption": "Biometric login enabled"
-    },
-    {
-      "id": "BiometryPage.LabelDisabled",
-      "caption": "Biometric login disabled"
-    },
-    {
-      "id": "ConfigPage.Label",
-      "caption": "Number of items in the list"
-    },
-    {
-      "id": "ConfigPage.LabelSerial",
-      "caption": "Serial Number"
-    },
-    {
-      "id": "ConfigPage.LabelGerador",
-      "caption": "Generate serial number"
-    },
-    {
-      "id": "ConfigPage.ListagemAtualizada",
-      "caption": "List updated successfully"
-    },
-    {
-      "id": "ConfigPage.ValorInvalido",
-      "caption": "Please enter a valid value"
-    },
-    {
-      "id": "ConfigPage.SerialInvalido",
-      "caption": "Please enter a valid serial number"
-    },
-    {
-      "id": "LoginPage.LabelBemVindo",
-      "caption": "Welcome"
-    },
-    {
-      "id": "LoginPage.LabelCrieConta",
-      "caption": "Sign in / create your account"
-    },
-    {
-      "id": "LoginPage.txtUser",
-      "caption": "Email"
-    },
-    {
-      "id": "LoginPage.txtPwd",
-      "caption": "Password"
-    },
-    {
-      "id": "LoginPage.txtPwdConfirm",
-      "caption": "Confirm password"
-    },
-    {
-      "id": "LoginPage.labelRecuperarBackup",
-      "caption": "Restore backup file"
-    },
-    {
-      "id": "LoginPage.btnLogin",
-      "caption": "Login"
-    },
-    {
-      "id": "LoginPage.btnCancelar",
-      "caption": "Cancel"
-    }
-  ]
-}
+  {
+    "id": "pt-br",
+    "name": "Português",
+    "captions": [
+      {
+        "id": "yes",
+        "caption": "Sim"
+      },
+      {
+        "id": "no",
+        "caption": "Não"
+      },
+      {
+        "id": "BiometryPage.LabelEnabled",
+        "caption": "Login por biometria ativado"
+      },
+      {
+        "id": "BiometryPage.LabelDisabled",
+        "caption": "Login por biometria desativado"
+      },
+      {
+        "id": "ConfigPage.Label",
+        "caption": "Quantidade de itens na Listagem"
+      },
+      {
+        "id": "ConfigPage.LabelSerial",
+        "caption": "Serial Number"
+      },
+      {
+        "id": "ConfigPage.LabelGerador",
+        "caption": "Gerar serial number"
+      },
+      {
+        "id": "ConfigPage.ListagemAtualizada",
+        "caption": "Listagem atualizada com sucesso"
+      },
+      {
+        "id": "ConfigPage.ValorInvalido",
+        "caption": "Informe um valor válido"
+      },
+      {
+        "id": "ConfigPage.SerialInvalido",
+        "caption": "Informe um serial válido"
+      },
+      {
+        "id": "LoginPage.LabelBemVindo",
+        "caption": "Bem-vindo"
+      },
+      {
+        "id": "LoginPage.LabelCrieConta",
+        "caption": "Faça login / crie sua conta"
+      },
+      {
+        "id": "LoginPage.txtUser",
+        "caption": "Email"
+      },
+      {
+        "id": "LoginPage.txtPwd",
+        "caption": "Senha"
+      },
+      {
+        "id": "LoginPage.txtPwdConfirm",
+        "caption": "Confirme a senha"
+      },
+      {
+        "id": "LoginPage.labelRecuperarBackup",
+        "caption": "Recuperar arquivo de backup"
+      },
+      {
+        "id": "LoginPage.btnCancelar",
+        "caption": "Cancelar"
+      },
+      {
+        "id": "LoginPage.pickerFileTitle",
+        "caption": "Selecione um arquivo de backup"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsTitle",
+        "caption": "Arquivo existente"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsText",
+        "caption": "Gostaria de sobrescrever o arquivo existente?"
+      },
+      {
+        "id": "LoginPage.backupRecuperado",
+        "caption": "Backup recuperado com sucesso"
+      },
+      {
+        "id": "LoginPage.erroCarregarArquivo",
+        "caption": "Erro ao carregar arquivo"
+      },
+      {
+        "id": "LoginPage.invalidUser",
+        "caption": "Informe um usuário válido"
+      },
+      {
+        "id": "LoginPage.invalidPassword",
+        "caption": "A senha informada é inválida"
+      },
+      {
+        "id": "LoginPage.invalidPasswordLength",
+        "caption": "A senha informada deve ter pelo menos 8 caracteres"
+      },
+      {
+        "id": "LoginPage.invalidPasswordValidation",
+        "caption": "As senhas informadas não coincidem"
+      },
+      {
+        "id": "LoginPage.captionLogin",
+        "caption": "Login"
+      },
+      {
+        "id": "LoginPage.captionLoginCreate",
+        "caption": "Criar login"
+      },
+      {
+        "id": "LoginPage.captionFingerprint",
+        "caption": "Impressão digital"
+      },
+      {
+        "id": "LoginPage.captionErrorOnLoadDataAccess",
+        "caption": "Não foi possível carregar dados de acesso"
+      }
+    ]
+  }
 ]
