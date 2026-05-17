@@ -34,6 +34,26 @@
         {
           "id": "ConfigPage.SerialInvalido",
           "caption": "Informe um serial válido"
+        },
+        {
+          "id": "LoginPage.LabelBemVindo",
+          "caption": "Bem-vindo"
+        },
+        {
+          "id": "LoginPage.LabelCrieConta",
+          "caption": "Faça login / crie sua conta"
+        },
+        {
+          "id": "LoginPage.txtUser",
+          "caption": "Email"
+        },
+        {
+          "id": "LoginPage.txtPwd",
+          "caption": "Senha"
+        },
+        {
+          "id": "LoginPage.txtPwdConfirm",
+          "caption": "Confirme a senha"
         }
       ]
     }
