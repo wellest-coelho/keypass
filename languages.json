@@ -1,0 +1,34 @@
+{
+  "languages": [
+    {
+      "id": "pt-br",
+      "name": "Português (Brasil)",
+      "captions": [
+        {
+          "id": "ConfigPage.Label",
+          "caption": "Quantidade de itens na Listagem"
+        },
+        {
+          "id": "ConfigPage.LabelSerial",
+          "caption": "Serial Number"
+        },
+        {
+          "id": "ConfigPage.LabelGerador",
+          "caption": "Gerar serial number"
+        },
+        {
+          "id": "ConfigPage.ListagemAtualizada",
+          "caption": "Listagem atualizada com sucesso"
+        },
+        {
+          "id": "ConfigPage.ValorInvalido",
+          "caption": "Informe um valor válido"
+        },
+        {
+          "id": "ConfigPage.SerialInvalido",
+          "caption": "Informe um serial válido"
+        }
+      ]
+    }
+  ]
+}
