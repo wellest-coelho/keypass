@@ -232,16 +232,1000 @@
         "caption": "A nova senha não coincide com a confirmação"
       },
       {
-        "id": "PasswordPage.captionSenhaDifere",
-        "caption": "A nova senha não coincide com a confirmação"
-      },
-      {
         "id": "NewKeyPage.labelConfirmaDelete1",
         "caption": "Confirma que deseja excluir?"
       },
       {
         "id": "NewKeyPage.labelConfirmaDelete2",
         "caption": "Essa ação não tem volta"
+      }
+    ]
+  },
+  {
+    "id": "en-us",
+    "name": "English",
+    "captions": [
+      {
+        "id": "yes",
+        "caption": "Yes"
+      },
+      {
+        "id": "no",
+        "caption": "No"
+      },
+      {
+        "id": "item",
+        "caption": "Item"
+      },
+      {
+        "id": "lblApp",
+        "caption": "App/Site"
+      },
+      {
+        "id": "lblUser",
+        "caption": "User"
+      },
+      {
+        "id": "lblPwd",
+        "caption": "Password"
+      },
+      {
+        "id": "lblNota",
+        "caption": "Note"
+      },
+      {
+        "id": "erroCarregarArquivo",
+        "caption": "Error loading file"
+      },
+      {
+        "id": "erroSalvarArquivo",
+        "caption": "Error saving file"
+      },
+      {
+        "id": "emailSubject",
+        "caption": "{{ Backup File - KeyPass }}"
+      },
+      {
+        "id": "emailBody",
+        "caption": "Hello,{NEWLINE}Attached is your file with encrypted passwords.{NEWLINE}Note: we recommend never sharing passwords with anyone.{NEWLINE}{NEWLINE}KeyPass"
+      },
+      {
+        "id": "BiometryPage.LabelEnabled",
+        "caption": "Biometric login enabled"
+      },
+      {
+        "id": "BiometryPage.LabelDisabled",
+        "caption": "Biometric login disabled"
+      },
+      {
+        "id": "ConfigPage.Label",
+        "caption": "Number of items in the list"
+      },
+      {
+        "id": "ConfigPage.LabelSerial",
+        "caption": "Serial Number"
+      },
+      {
+        "id": "ConfigPage.LabelGerador",
+        "caption": "Generate serial number"
+      },
+      {
+        "id": "ConfigPage.ListagemAtualizada",
+        "caption": "List updated successfully"
+      },
+      {
+        "id": "ConfigPage.ValorInvalido",
+        "caption": "Please enter a valid value"
+      },
+      {
+        "id": "ConfigPage.SerialInvalido",
+        "caption": "Please enter a valid serial number"
+      },
+      {
+        "id": "LoginPage.LabelBemVindo",
+        "caption": "Welcome"
+      },
+      {
+        "id": "LoginPage.LabelCrieConta",
+        "caption": "Sign in / create your account"
+      },
+      {
+        "id": "LoginPage.txtUser",
+        "caption": "Email"
+      },
+      {
+        "id": "LoginPage.txtPwd",
+        "caption": "Password"
+      },
+      {
+        "id": "LoginPage.txtPwdConfirm",
+        "caption": "Confirm password"
+      },
+      {
+        "id": "LoginPage.labelRecuperarBackup",
+        "caption": "Restore backup file"
+      },
+      {
+        "id": "LoginPage.btnCancelar",
+        "caption": "Cancel"
+      },
+      {
+        "id": "LoginPage.pickerFileTitle",
+        "caption": "Select a backup file"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsTitle",
+        "caption": "File already exists"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsText",
+        "caption": "Would you like to overwrite the existing file?"
+      },
+      {
+        "id": "LoginPage.backupRecuperado",
+        "caption": "Backup successfully restored"
+      },
+      {
+        "id": "LoginPage.invalidUser",
+        "caption": "Please enter a valid user"
+      },
+      {
+        "id": "LoginPage.invalidPassword",
+        "caption": "The password is invalid"
+      },
+      {
+        "id": "LoginPage.invalidPasswordLength",
+        "caption": "Password must be at least 8 characters long"
+      },
+      {
+        "id": "LoginPage.invalidPasswordValidation",
+        "caption": "Passwords do not match"
+      },
+      {
+        "id": "LoginPage.captionLogin",
+        "caption": "Login"
+      },
+      {
+        "id": "LoginPage.captionLoginCreate",
+        "caption": "Create login"
+      },
+      {
+        "id": "LoginPage.captionFingerprint",
+        "caption": "Fingerprint"
+      },
+      {
+        "id": "LoginPage.captionErrorOnLoadDataAccess",
+        "caption": "Unable to load access data"
+      },
+      {
+        "id": "MainPage.mnAdd",
+        "caption": "New item"
+      },
+      {
+        "id": "MainPage.mnConfig",
+        "caption": "Settings"
+      },
+      {
+        "id": "MainPage.mnBkp",
+        "caption": "Email backup"
+      },
+      {
+        "id": "MainPage.mnPwd",
+        "caption": "Change password"
+      },
+      {
+        "id": "MainPage.mnOut",
+        "caption": "Logout"
+      },
+      {
+        "id": "MainPage.invalidSerialNumber",
+        "caption": "Go to Settings and enter a valid serial number"
+      },
+      {
+        "id": "MainPage.captionLabelTitle1",
+        "caption": "(Showing {0}/{1} items)"
+      },
+      {
+        "id": "MainPage.captionLabelTitle2",
+        "caption": "(Showing all {0} items)"
+      },
+      {
+        "id": "MainPage.captionCopia",
+        "caption": "Copied: "
+      },
+      {
+        "id": "PasswordPage.lblSenhaAtual",
+        "caption": "Current password"
+      },
+      {
+        "id": "PasswordPage.txtSenhaAtual",
+        "caption": "Enter current password"
+      },
+      {
+        "id": "PasswordPage.lblSenhaNova",
+        "caption": "New password"
+      },
+      {
+        "id": "PasswordPage.txtSenhaNova",
+        "caption": "New password (minimum 8 characters)"
+      },
+      {
+        "id": "PasswordPage.lblConfirmacao",
+        "caption": "Confirmation"
+      },
+      {
+        "id": "PasswordPage.txtConfirmacao",
+        "caption": "Confirm new password"
+      },
+      {
+        "id": "PasswordPage.captionSenhaAlterada",
+        "caption": "Password changed successfully"
+      },
+      {
+        "id": "PasswordPage.captionSenhaIncorreta",
+        "caption": "The current password is incorrect"
+      },
+      {
+        "id": "PasswordPage.captionSenhaInvalida",
+        "caption": "The new password is invalid"
+      },
+      {
+        "id": "PasswordPage.captionSenhaDifere",
+        "caption": "The new password does not match the confirmation"
+      },
+      {
+        "id": "NewKeyPage.labelConfirmaDelete1",
+        "caption": "Do you confirm deletion?"
+      },
+      {
+        "id": "NewKeyPage.labelConfirmaDelete2",
+        "caption": "This action cannot be undone"
+      }
+    ]
+  },
+  {
+    "id": "es-es",
+    "name": "Español",
+    "captions": [
+      {
+        "id": "yes",
+        "caption": "Sí"
+      },
+      {
+        "id": "no",
+        "caption": "No"
+      },
+      {
+        "id": "item",
+        "caption": "Elemento"
+      },
+      {
+        "id": "lblApp",
+        "caption": "App/Sitio"
+      },
+      {
+        "id": "lblUser",
+        "caption": "Usuario"
+      },
+      {
+        "id": "lblPwd",
+        "caption": "Contraseña"
+      },
+      {
+        "id": "lblNota",
+        "caption": "Nota"
+      },
+      {
+        "id": "erroCarregarArquivo",
+        "caption": "Error al cargar el archivo"
+      },
+      {
+        "id": "erroSalvarArquivo",
+        "caption": "Error al guardar el archivo"
+      },
+      {
+        "id": "emailSubject",
+        "caption": "{{ Archivo de copia de seguridad - KeyPass }}"
+      },
+      {
+        "id": "emailBody",
+        "caption": "Hola,{NEWLINE}Adjunto encontrarás tu archivo con contraseñas cifradas.{NEWLINE}Nota: recomendamos no compartir contraseñas con nadie.{NEWLINE}{NEWLINE}KeyPass"
+      },
+      {
+        "id": "BiometryPage.LabelEnabled",
+        "caption": "Inicio de sesión biométrico activado"
+      },
+      {
+        "id": "BiometryPage.LabelDisabled",
+        "caption": "Inicio de sesión biométrico desactivado"
+      },
+      {
+        "id": "ConfigPage.Label",
+        "caption": "Cantidad de elementos en la lista"
+      },
+      {
+        "id": "ConfigPage.LabelSerial",
+        "caption": "Número de serie"
+      },
+      {
+        "id": "ConfigPage.LabelGerador",
+        "caption": "Generar número de serie"
+      },
+      {
+        "id": "ConfigPage.ListagemAtualizada",
+        "caption": "Listado actualizado con éxito"
+      },
+      {
+        "id": "ConfigPage.ValorInvalido",
+        "caption": "Ingrese un valor válido"
+      },
+      {
+        "id": "ConfigPage.SerialInvalido",
+        "caption": "Ingrese un número de serie válido"
+      },
+      {
+        "id": "LoginPage.LabelBemVindo",
+        "caption": "Bienvenido"
+      },
+      {
+        "id": "LoginPage.LabelCrieConta",
+        "caption": "Inicia sesión / crea tu cuenta"
+      },
+      {
+        "id": "LoginPage.txtUser",
+        "caption": "Correo electrónico"
+      },
+      {
+        "id": "LoginPage.txtPwd",
+        "caption": "Contraseña"
+      },
+      {
+        "id": "LoginPage.txtPwdConfirm",
+        "caption": "Confirma la contraseña"
+      },
+      {
+        "id": "LoginPage.labelRecuperarBackup",
+        "caption": "Recuperar archivo de copia de seguridad"
+      },
+      {
+        "id": "LoginPage.btnCancelar",
+        "caption": "Cancelar"
+      },
+      {
+        "id": "LoginPage.pickerFileTitle",
+        "caption": "Seleccione un archivo de copia de seguridad"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsTitle",
+        "caption": "Archivo existente"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsText",
+        "caption": "¿Desea sobrescribir el archivo existente?"
+      },
+      {
+        "id": "LoginPage.backupRecuperado",
+        "caption": "Copia de seguridad restaurada con éxito"
+      },
+      {
+        "id": "LoginPage.invalidUser",
+        "caption": "Ingrese un usuario válido"
+      },
+      {
+        "id": "LoginPage.invalidPassword",
+        "caption": "La contraseña es inválida"
+      },
+      {
+        "id": "LoginPage.invalidPasswordLength",
+        "caption": "La contraseña debe tener al menos 8 caracteres"
+      },
+      {
+        "id": "LoginPage.invalidPasswordValidation",
+        "caption": "Las contraseñas no coinciden"
+      },
+      {
+        "id": "LoginPage.captionLogin",
+        "caption": "Iniciar sesión"
+      },
+      {
+        "id": "LoginPage.captionLoginCreate",
+        "caption": "Crear inicio de sesión"
+      },
+      {
+        "id": "LoginPage.captionFingerprint",
+        "caption": "Huella digital"
+      },
+      {
+        "id": "LoginPage.captionErrorOnLoadDataAccess",
+        "caption": "No se pudieron cargar los datos de acceso"
+      },
+      {
+        "id": "MainPage.mnAdd",
+        "caption": "Nuevo elemento"
+      },
+      {
+        "id": "MainPage.mnConfig",
+        "caption": "Configuraciones"
+      },
+      {
+        "id": "MainPage.mnBkp",
+        "caption": "Copia de seguridad por correo electrónico"
+      },
+      {
+        "id": "MainPage.mnPwd",
+        "caption": "Cambiar contraseña"
+      },
+      {
+        "id": "MainPage.mnOut",
+        "caption": "Salir"
+      },
+      {
+        "id": "MainPage.invalidSerialNumber",
+        "caption": "Vaya a Configuración e ingrese un número de serie válido"
+      },
+      {
+        "id": "MainPage.captionLabelTitle1",
+        "caption": "(Mostrando {0}/{1} elementos)"
+      },
+      {
+        "id": "MainPage.captionLabelTitle2",
+        "caption": "(Mostrando todos los {0} elementos)"
+      },
+      {
+        "id": "MainPage.captionCopia",
+        "caption": "Copiado: "
+      },
+      {
+        "id": "PasswordPage.lblSenhaAtual",
+        "caption": "Contraseña actual"
+      },
+      {
+        "id": "PasswordPage.txtSenhaAtual",
+        "caption": "Ingrese la contraseña actual"
+      },
+      {
+        "id": "PasswordPage.lblSenhaNova",
+        "caption": "Nueva contraseña"
+      },
+      {
+        "id": "PasswordPage.txtSenhaNova",
+        "caption": "Nueva contraseña (mínimo 8 caracteres)"
+      },
+      {
+        "id": "PasswordPage.lblConfirmacao",
+        "caption": "Confirmación"
+      },
+      {
+        "id": "PasswordPage.txtConfirmacao",
+        "caption": "Confirme la nueva contraseña"
+      },
+      {
+        "id": "PasswordPage.captionSenhaAlterada",
+        "caption": "Contraseña cambiada con éxito"
+      },
+      {
+        "id": "PasswordPage.captionSenhaIncorreta",
+        "caption": "La contraseña actual es incorrecta"
+      },
+      {
+        "id": "PasswordPage.captionSenhaInvalida",
+        "caption": "La nueva contraseña es inválida"
+      },
+      {
+        "id": "PasswordPage.captionSenhaDifere",
+        "caption": "La nueva contraseña no coincide con la confirmación"
+      },
+      {
+        "id": "NewKeyPage.labelConfirmaDelete1",
+        "caption": "¿Confirma la eliminación?"
+      },
+      {
+        "id": "NewKeyPage.labelConfirmaDelete2",
+        "caption": "Esta acción no se puede deshacer"
+      }
+    ]
+  },
+  {
+    "id": "fr-fr",
+    "name": "Français",
+    "captions": [
+      {
+        "id": "yes",
+        "caption": "Oui"
+      },
+      {
+        "id": "no",
+        "caption": "Non"
+      },
+      {
+        "id": "item",
+        "caption": "Élément"
+      },
+      {
+        "id": "lblApp",
+        "caption": "App/Site"
+      },
+      {
+        "id": "lblUser",
+        "caption": "Utilisateur"
+      },
+      {
+        "id": "lblPwd",
+        "caption": "Mot de passe"
+      },
+      {
+        "id": "lblNota",
+        "caption": "Note"
+      },
+
+      {
+        "id": "erroCarregarArquivo",
+        "caption": "Erreur lors du chargement du fichier"
+      },
+      {
+        "id": "erroSalvarArquivo",
+        "caption": "Erreur lors de l’enregistrement du fichier"
+      },
+
+      {
+        "id": "emailSubject",
+        "caption": "{{ Fichier de sauvegarde - KeyPass }}"
+      },
+      {
+        "id": "emailBody",
+        "caption": "Bonjour,{NEWLINE}Vous trouverez ci-joint votre fichier contenant des mots de passe chiffrés.{NEWLINE}Remarque : nous recommandons de ne jamais partager vos mots de passe.{NEWLINE}{NEWLINE}KeyPass"
+      },
+
+      {
+        "id": "BiometryPage.LabelEnabled",
+        "caption": "Connexion biométrique activée"
+      },
+      {
+        "id": "BiometryPage.LabelDisabled",
+        "caption": "Connexion biométrique désactivée"
+      },
+
+      {
+        "id": "ConfigPage.Label",
+        "caption": "Nombre d’éléments dans la liste"
+      },
+      {
+        "id": "ConfigPage.LabelSerial",
+        "caption": "Numéro de série"
+      },
+      {
+        "id": "ConfigPage.LabelGerador",
+        "caption": "Générer un numéro de série"
+      },
+      {
+        "id": "ConfigPage.ListagemAtualizada",
+        "caption": "Liste mise à jour avec succès"
+      },
+      {
+        "id": "ConfigPage.ValorInvalido",
+        "caption": "Veuillez saisir une valeur valide"
+      },
+      {
+        "id": "ConfigPage.SerialInvalido",
+        "caption": "Veuillez saisir un numéro de série valide"
+      },
+
+      {
+        "id": "LoginPage.LabelBemVindo",
+        "caption": "Bienvenue"
+      },
+      {
+        "id": "LoginPage.LabelCrieConta",
+        "caption": "Connexion / créer un compte"
+      },
+      {
+        "id": "LoginPage.txtUser",
+        "caption": "Email"
+      },
+      {
+        "id": "LoginPage.txtPwd",
+        "caption": "Mot de passe"
+      },
+      {
+        "id": "LoginPage.txtPwdConfirm",
+        "caption": "Confirmer le mot de passe"
+      },
+      {
+        "id": "LoginPage.labelRecuperarBackup",
+        "caption": "Récupérer le fichier de sauvegarde"
+      },
+      {
+        "id": "LoginPage.btnCancelar",
+        "caption": "Annuler"
+      },
+      {
+        "id": "LoginPage.pickerFileTitle",
+        "caption": "Sélectionnez un fichier de sauvegarde"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsTitle",
+        "caption": "Fichier existant"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsText",
+        "caption": "Voulez-vous écraser le fichier existant ?"
+      },
+      {
+        "id": "LoginPage.backupRecuperado",
+        "caption": "Sauvegarde restaurée avec succès"
+      },
+
+      {
+        "id": "LoginPage.invalidUser",
+        "caption": "Veuillez saisir un utilisateur valide"
+      },
+      {
+        "id": "LoginPage.invalidPassword",
+        "caption": "Le mot de passe est invalide"
+      },
+      {
+        "id": "LoginPage.invalidPasswordLength",
+        "caption": "Le mot de passe doit contenir au moins 8 caractères"
+      },
+      {
+        "id": "LoginPage.invalidPasswordValidation",
+        "caption": "Les mots de passe ne correspondent pas"
+      },
+
+      {
+        "id": "LoginPage.captionLogin",
+        "caption": "Connexion"
+      },
+      {
+        "id": "LoginPage.captionLoginCreate",
+        "caption": "Créer un compte"
+      },
+      {
+        "id": "LoginPage.captionFingerprint",
+        "caption": "Empreinte digitale"
+      },
+      {
+        "id": "LoginPage.captionErrorOnLoadDataAccess",
+        "caption": "Impossible de charger les données d’accès"
+      },
+
+      {
+        "id": "MainPage.mnAdd",
+        "caption": "Nouvel élément"
+      },
+      {
+        "id": "MainPage.mnConfig",
+        "caption": "Paramètres"
+      },
+      {
+        "id": "MainPage.mnBkp",
+        "caption": "Sauvegarde par email"
+      },
+      {
+        "id": "MainPage.mnPwd",
+        "caption": "Changer le mot de passe"
+      },
+      {
+        "id": "MainPage.mnOut",
+        "caption": "Déconnexion"
+      },
+      {
+        "id": "MainPage.invalidSerialNumber",
+        "caption": "Allez dans Paramètres et entrez un numéro de série valide"
+      },
+      {
+        "id": "MainPage.captionLabelTitle1",
+        "caption": "(Affichage {0}/{1} éléments)"
+      },
+      {
+        "id": "MainPage.captionLabelTitle2",
+        "caption": "(Affichage de tous les {0} éléments)"
+      },
+      {
+        "id": "MainPage.captionCopia",
+        "caption": "Copié : "
+      },
+
+      {
+        "id": "PasswordPage.lblSenhaAtual",
+        "caption": "Mot de passe actuel"
+      },
+      {
+        "id": "PasswordPage.txtSenhaAtual",
+        "caption": "Entrez le mot de passe actuel"
+      },
+      {
+        "id": "PasswordPage.lblSenhaNova",
+        "caption": "Nouveau mot de passe"
+      },
+      {
+        "id": "PasswordPage.txtSenhaNova",
+        "caption": "Nouveau mot de passe (minimum 8 caractères)"
+      },
+      {
+        "id": "PasswordPage.lblConfirmacao",
+        "caption": "Confirmation"
+      },
+      {
+        "id": "PasswordPage.txtConfirmacao",
+        "caption": "Confirmez le nouveau mot de passe"
+      },
+      {
+        "id": "PasswordPage.captionSenhaAlterada",
+        "caption": "Mot de passe modifié avec succès"
+      },
+      {
+        "id": "PasswordPage.captionSenhaIncorreta",
+        "caption": "Le mot de passe actuel est incorrect"
+      },
+      {
+        "id": "PasswordPage.captionSenhaInvalida",
+        "caption": "Le nouveau mot de passe est invalide"
+      },
+      {
+        "id": "PasswordPage.captionSenhaDifere",
+        "caption": "Le nouveau mot de passe ne correspond pas à la confirmation"
+      },
+
+      {
+        "id": "NewKeyPage.labelConfirmaDelete1",
+        "caption": "Confirmez-vous la suppression ?"
+      },
+      {
+        "id": "NewKeyPage.labelConfirmaDelete2",
+        "caption": "Cette action est irréversible"
+      }
+    ]
+  },
+  {
+    "id": "it-it",
+    "name": "Italiano",
+    "captions": [
+      {
+        "id": "yes",
+        "caption": "Sì"
+      },
+      {
+        "id": "no",
+        "caption": "No"
+      },
+      {
+        "id": "item",
+        "caption": "Elemento"
+      },
+      {
+        "id": "lblApp",
+        "caption": "App/Sito"
+      },
+      {
+        "id": "lblUser",
+        "caption": "Utente"
+      },
+      {
+        "id": "lblPwd",
+        "caption": "Password"
+      },
+      {
+        "id": "lblNota",
+        "caption": "Nota"
+      },
+
+      {
+        "id": "erroCarregarArquivo",
+        "caption": "Errore nel caricamento del file"
+      },
+      {
+        "id": "erroSalvarArquivo",
+        "caption": "Errore nel salvataggio del file"
+      },
+
+      {
+        "id": "emailSubject",
+        "caption": "{{ File di backup - KeyPass }}"
+      },
+      {
+        "id": "emailBody",
+        "caption": "Ciao,{NEWLINE}In allegato trovi il tuo file con password crittografate.{NEWLINE}Nota: si consiglia di non condividere mai le password.{NEWLINE}{NEWLINE}KeyPass"
+      },
+
+      {
+        "id": "BiometryPage.LabelEnabled",
+        "caption": "Accesso biometrico attivato"
+      },
+      {
+        "id": "BiometryPage.LabelDisabled",
+        "caption": "Accesso biometrico disattivato"
+      },
+
+      {
+        "id": "ConfigPage.Label",
+        "caption": "Numero di elementi nella lista"
+      },
+      {
+        "id": "ConfigPage.LabelSerial",
+        "caption": "Numero di serie"
+      },
+      {
+        "id": "ConfigPage.LabelGerador",
+        "caption": "Genera numero di serie"
+      },
+      {
+        "id": "ConfigPage.ListagemAtualizada",
+        "caption": "Lista aggiornata con successo"
+      },
+      {
+        "id": "ConfigPage.ValorInvalido",
+        "caption": "Inserisci un valore valido"
+      },
+      {
+        "id": "ConfigPage.SerialInvalido",
+        "caption": "Inserisci un numero di serie valido"
+      },
+
+      {
+        "id": "LoginPage.LabelBemVindo",
+        "caption": "Benvenuto"
+      },
+      {
+        "id": "LoginPage.LabelCrieConta",
+        "caption": "Accedi / crea il tuo account"
+      },
+      {
+        "id": "LoginPage.txtUser",
+        "caption": "Email"
+      },
+      {
+        "id": "LoginPage.txtPwd",
+        "caption": "Password"
+      },
+      {
+        "id": "LoginPage.txtPwdConfirm",
+        "caption": "Conferma password"
+      },
+      {
+        "id": "LoginPage.labelRecuperarBackup",
+        "caption": "Ripristina file di backup"
+      },
+      {
+        "id": "LoginPage.btnCancelar",
+        "caption": "Annulla"
+      },
+      {
+        "id": "LoginPage.pickerFileTitle",
+        "caption": "Seleziona un file di backup"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsTitle",
+        "caption": "File esistente"
+      },
+      {
+        "id": "LoginPage.displayAlertFileExistsText",
+        "caption": "Vuoi sovrascrivere il file esistente?"
+      },
+      {
+        "id": "LoginPage.backupRecuperado",
+        "caption": "Backup ripristinato con successo"
+      },
+
+      {
+        "id": "LoginPage.invalidUser",
+        "caption": "Inserisci un utente valido"
+      },
+      {
+        "id": "LoginPage.invalidPassword",
+        "caption": "La password non è valida"
+      },
+      {
+        "id": "LoginPage.invalidPasswordLength",
+        "caption": "La password deve contenere almeno 8 caratteri"
+      },
+      {
+        "id": "LoginPage.invalidPasswordValidation",
+        "caption": "Le password non corrispondono"
+      },
+
+      {
+        "id": "LoginPage.captionLogin",
+        "caption": "Login"
+      },
+      {
+        "id": "LoginPage.captionLoginCreate",
+        "caption": "Crea account"
+      },
+      {
+        "id": "LoginPage.captionFingerprint",
+        "caption": "Impronta digitale"
+      },
+      {
+        "id": "LoginPage.captionErrorOnLoadDataAccess",
+        "caption": "Impossibile caricare i dati di accesso"
+      },
+
+      {
+        "id": "MainPage.mnAdd",
+        "caption": "Nuovo elemento"
+      },
+      {
+        "id": "MainPage.mnConfig",
+        "caption": "Impostazioni"
+      },
+      {
+        "id": "MainPage.mnBkp",
+        "caption": "Backup via email"
+      },
+      {
+        "id": "MainPage.mnPwd",
+        "caption": "Cambia password"
+      },
+      {
+        "id": "MainPage.mnOut",
+        "caption": "Esci"
+      },
+      {
+        "id": "MainPage.invalidSerialNumber",
+        "caption": "Vai su Impostazioni e inserisci un numero di serie valido"
+      },
+      {
+        "id": "MainPage.captionLabelTitle1",
+        "caption": "(Visualizzando {0}/{1} elementi)"
+      },
+      {
+        "id": "MainPage.captionLabelTitle2",
+        "caption": "(Visualizzando tutti i {0} elementi)"
+      },
+      {
+        "id": "MainPage.captionCopia",
+        "caption": "Copiato: "
+      },
+
+      {
+        "id": "PasswordPage.lblSenhaAtual",
+        "caption": "Password attuale"
+      },
+      {
+        "id": "PasswordPage.txtSenhaAtual",
+        "caption": "Inserisci la password attuale"
+      },
+      {
+        "id": "PasswordPage.lblSenhaNova",
+        "caption": "Nuova password"
+      },
+      {
+        "id": "PasswordPage.txtSenhaNova",
+        "caption": "Nuova password (minimo 8 caratteri)"
+      },
+      {
+        "id": "PasswordPage.lblConfirmacao",
+        "caption": "Conferma"
+      },
+      {
+        "id": "PasswordPage.txtConfirmacao",
+        "caption": "Conferma la nuova password"
+      },
+      {
+        "id": "PasswordPage.captionSenhaAlterada",
+        "caption": "Password modificata con successo"
+      },
+      {
+        "id": "PasswordPage.captionSenhaIncorreta",
+        "caption": "La password attuale non è corretta"
+      },
+      {
+        "id": "PasswordPage.captionSenhaInvalida",
+        "caption": "La nuova password non è valida"
+      },
+      {
+        "id": "PasswordPage.captionSenhaDifere",
+        "caption": "La nuova password non corrisponde alla conferma"
+      },
+
+      {
+        "id": "NewKeyPage.labelConfirmaDelete1",
+        "caption": "Confermi l’eliminazione?"
+      },
+      {
+        "id": "NewKeyPage.labelConfirmaDelete2",
+        "caption": "Questa azione non può essere annullata"
       }
     ]
   }
