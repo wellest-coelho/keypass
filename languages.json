@@ -176,6 +176,10 @@
         "caption": "Sair"
       },
       {
+        "id": "MainPage.mnBiometria",
+        "caption": "Login por biometria"
+      },
+      {
         "id": "MainPage.invalidSerialNumber",
         "caption": "Vá em Configurações e informe um serial number válido"
       },
@@ -418,6 +422,10 @@
         "caption": "Logout"
       },
       {
+        "id": "MainPage.mnBiometria",
+        "caption": "Biometric login"
+      },
+      {
         "id": "MainPage.invalidSerialNumber",
         "caption": "Go to Settings and enter a valid serial number"
       },
@@ -658,6 +666,10 @@
       {
         "id": "MainPage.mnOut",
         "caption": "Salir"
+      },
+      {
+        "id": "MainPage.mnBiometria",
+        "caption": "Inicio de sesión biométrico"
       },
       {
         "id": "MainPage.invalidSerialNumber",
@@ -910,6 +922,10 @@
         "caption": "Déconnexion"
       },
       {
+        "id": "MainPage.mnBiometria",
+        "caption": "Connexion biométrique"
+      },
+      {
         "id": "MainPage.invalidSerialNumber",
         "caption": "Allez dans Paramètres et entrez un numéro de série valide"
       },
@@ -1160,6 +1176,10 @@
       {
         "id": "MainPage.mnOut",
         "caption": "Esci"
+      },
+      {
+        "id": "MainPage.mnBiometria",
+        "caption": "Accesso biometrico"
       },
       {
         "id": "MainPage.invalidSerialNumber",
